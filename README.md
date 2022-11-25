@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React (Javascript) and Python
 - 💞️ I’m looking to collaborate on different and challenging projects
 - 📫 How to reach me: iriscarolina71@gmail.com
-- 🧠 2024. Graduanda em Análise e Desenvolvimento de Sistemas 
+- 🧠 2024. Systems Analysis and Development 
 
 
 <!---
